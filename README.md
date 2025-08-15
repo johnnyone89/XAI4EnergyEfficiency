@@ -105,7 +105,7 @@ Note: Ensure you run the notebooks in order to properly set up the environment a
 - **Citations**: If you find this repository helpful, please consider citing our paper:
 
 ```plaintext
-J. Moon et al., "Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting," PLOS ONE, 2024. (Please fill in volume, issue, and page numbers when available.)
+J. Moon et al., "Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting," _PLoS ONE_, vol. 19, no. 11, p. e0307654, 2024. (https://doi.org/10.1371/journal.pone.0307654)
 ```
 
 
@@ -127,7 +127,7 @@ For any questions or inquiries, please contact:
 
 - **First Author**: Jihoon Moon, Ph.D.
 - **Email**: johnnyone89@gmail.com
-- **Institution**: Soonchunhyang University
+- **Institution**: Duksung Women's University
 
 By providing comprehensive datasets, detailed code, and guidance, we aim to support researchers and practitioners in advancing the field of residential building electricity consumption forecasting. We hope this repository serves as a valuable resource for your work.
 
