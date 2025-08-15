@@ -105,7 +105,7 @@ Note: Ensure you run the notebooks in order to properly set up the environment a
 - **Citations**: If you find this repository helpful, please consider citing our paper:
 
 ```plaintext
-J. Moon et al., "Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting," _PLoS ONE_, vol. 19, no. 11, p. e0307654, 2024. (https://doi.org/10.1371/journal.pone.0307654)
+J. Moon et al., "Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting," PLoS ONE, vol. 19, no. 11, p. e0307654, 2024. (https://doi.org/10.1371/journal.pone.0307654)
 ```
 
 
