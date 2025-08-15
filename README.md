@@ -1,4 +1,4 @@
-# Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting
+# Advancing Ensemble Learning Techniques for Residential Building Electricity Consumption Forecasting
 
 Welcome to the repository accompanying our paper: **"Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting"** by **J. Moon et al., 2024**. This repository provides the datasets and code necessary to reproduce the results presented in the paper and to facilitate further research in the field of residential building electricity consumption forecasting.
 
