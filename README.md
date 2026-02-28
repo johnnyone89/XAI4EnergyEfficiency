@@ -1,10 +1,10 @@
 # Advancing Ensemble Learning Techniques for Residential Building Electricity Consumption Forecasting
 
-Welcome to the repository accompanying our paper: **"Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting"** by **J. Moon et al., 2024**. This repository provides the datasets and code necessary to reproduce the results presented in the paper and to facilitate further research in the field of residential building electricity consumption forecasting.
+Welcome to the repository accompanying our paper: **"Advancing ensemble learning techniques for residential building electricity consumption forecasting: Insight from explainable artificial intelligence"** by **J. Moon et al., published in PLOS ONE in 2024**. This repository provides the datasets and code necessary to reproduce the results presented in the paper and to facilitate further research in the field of residential building electricity consumption forecasting.
 
 ## Overview
 
-Accurate forecasting of electricity consumption in residential buildings is crucial for energy management and planning. This repository contains:
+Accurate forecasting of electricity consumption in residential buildings is crucial for energy management and planning. This repository accompanies our published PLOS ONE article and is intended to support transparency, reproducibility, and further research in residential building electricity consumption forecasting. This repository contains:
 
 - **Datasets**: Two comprehensive datasets for residential building electricity consumption forecasting.
 - **Notebooks**: Jupyter notebooks implementing ensemble learning models and deep learning models.
@@ -105,7 +105,7 @@ Note: Ensure you run the notebooks in order to properly set up the environment a
 - **Citations**: If you find this repository helpful, please consider citing our paper:
 
 ```plaintext
-J. Moon et al., "Advancing Ensemble Learning Models for Residential Building Electricity Consumption Forecasting," PLoS ONE, vol. 19, no. 11, p. e0307654, 2024. (https://doi.org/10.1371/journal.pone.0307654)
+J. Moon et al., "Advancing ensemble learning techniques for residential building electricity consumption forecasting: Insight from explainable artificial intelligence," PLOS ONE, vol. 19, no. 11, p. e0307654, 2024. (https://doi.org/10.1371/journal.pone.0307654)
 ```
 
 
